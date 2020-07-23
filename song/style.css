@@ -1,0 +1,20 @@
+body{
+    background-color: cadetblue;
+    text-align: center;
+    font-family: 'Rowdies', cursive;
+}
+
+table {
+    border-width: 4px;
+    border-style: solid;
+    border-color: darkblue;
+    width: 80%;
+    margin: auto;
+}
+td, th{
+    border:1px solid darkblue
+}
+th{
+    background-color: darkseagreen;
+    font-style: italic;
+}
